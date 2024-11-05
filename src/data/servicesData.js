@@ -12,7 +12,7 @@ export const servicesData = [
     //     title: 'Marketing',
     //     icon: <BiShoppingBag/>
     // },
-    {
+   /* {
         id: 2,
         title: 'Content Writing',
         icon: <BiPencil /> 
@@ -73,7 +73,7 @@ export const servicesData = [
         title: 'Blog Posting',
         icon: <FaRegNewspaper />
     },
-
+*/
 ]
 
 // Uncomment your required service.

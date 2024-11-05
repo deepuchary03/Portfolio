@@ -9,7 +9,7 @@ import boy3 from '../assets/svg/testimonials/boy3.svg'
 
 
 export const testimonialsData = [
-    {
+  /*  {
         id: 1,
         name: 'Chandler Bing',
         title: 'Transponster',
@@ -50,6 +50,6 @@ export const testimonialsData = [
         title: 'Paleontologist',
         text: "Be it 'Rocks' or 'Bones', you need a website to display it. This is it. Great work guys !",
         image: boy3
-    }
+    }*/
 ]
 
