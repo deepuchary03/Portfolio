@@ -17,7 +17,7 @@ export const educationData = [
         id: 3,
         institution: 'Teegala Krishna Reddy Engg College',
         course: 'B-Tech',
-        startYear: '2012',
+        startYear: '2022',
         endYear: 'Present'
     },
 ]
