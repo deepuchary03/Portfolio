@@ -1,10 +1,10 @@
 export const experienceData = [
     {
         id: 1,
-        company: '',
-        jobtitle: '',
-        startYear: '',
-        endYear: ''
+        company: 'Motioncut',
+        jobtitle: 'Web Developer Intern',
+        startYear: 'Oct-20-2024',
+        endYear: 'Nov-20-2024'
     },
     {
         id: 2,
