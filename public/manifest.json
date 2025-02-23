@@ -1,25 +1,25 @@
 {
-  "short_name": "Developer Portfolio",
-  "name": "Developer Portfolio template by hhhrrrttt222111",
+  "short_name": "Portfolio",
+  "name": "S Pranav",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "deepu_profile.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "favicon.png",
+      "src": "deepu_profile.png",
       "type": "image/png",
       "sizes": "64x64"
     },
     {
-      "src": "favicon512.png",
+      "src": "deepu_profile.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#f56539",
+  "background_color": "#f56539"
 }
